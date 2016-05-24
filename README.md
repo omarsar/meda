@@ -1,10 +1,15 @@
-## :point_right: An Emotion Classification Web Service
-This is a  basic service to classify text into its pertaining emotion.
+## :point_right: An Multilingual Emotion Classification Web Service
+This is a basic service to classify text into its pertaining emotion. It work with langauges such as English, Spanish and French.
 
-## Demo
+# :point_right: Abstract
+Traditional classifiers require extracting high dimensional feature representations, which become computationally expensive to process and can misrepresent or deteriorate the accuracy of a classifier. By utilizing a more representative list of extracted patterns, we can improve the precision and recall of a classification task. In this paper, we propose an unsupervised graph-based approach for bootstrapping Twitter-specific emotion-bearing patterns. Due to its novel bootstrapping process, the full system is also adaptable to different domains and classification problems. Furthermore, we explore how emotion-bearing patterns can help boost an emotion classification task. The experimented results demonstrate that the extracted patterns are effective in identifying emotions for English, Spanish and French Twitter streams.
+
+[Read Whole Paper](http://dl.acm.org/citation.cfm?doid=2808797.2809419)
+
+## :point_right: Demo
 [MEDA](bit.ly/ilmeda)
 
-## Demo Screenshot
+## :point_right: Demo Screenshot
 ![alt text](https://github.com/omarsar/meda/blob/master/public/home.png)
 
 ## :point_right: Status
