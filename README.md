@@ -1,11 +1,11 @@
-## :point_right: An Emotion Classifier Web Service
+## :point_right: An Emotion Classification Web Service
 This is a  basic service to classify text into its pertaining emotion.
 
-## :poing_right: Status
+## :point_right: Status
 In progress :construction_worker:
 
-## To-do sheet
-1. Add more common libraries and setup useful code.
+## :point_right: To-do sheet
+1. Convert the service into API
 
 ## :point_right: How to Contribute?
 * Fork repository
