@@ -1,0 +1,32 @@
+.entity {
+  color: #535353;
+}
+.entity label {
+  font-size: 18px;
+}
+.entity figure {
+  font-size: 56px;
+}
+.entity unity {
+  color: #424242;
+  font-size: 12px;
+}
+
+.header.sample1 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background-color: #48D1CC;
+}
+
+.header.sample2 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background-color: #c9c9ff;
+}
+
+.header.sample3 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background-color: #ffbdbd;
+}
+

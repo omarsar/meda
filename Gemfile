@@ -5,6 +5,7 @@ gem 'thin'
 gem 'haml'
 gem 'json'
 gem 'httparty'
+gem 'http'
 gem 'rerun'
 
 group :development, :test do
