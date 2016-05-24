@@ -21,9 +21,7 @@ Basically, you clone it and it serves a starter for any ruby sinartra app. I fin
 1. Commit changes of your project `git commit -am "first commit"`
 1. Add remote `git remote add origin <git_url>`
 1. Add it is ready to be pushed `git push -u origin master`
-
-2. Change your `README.md` file to a description of your particular project and how other can contribute to it.
-3. If using git, make sure to manage what goes public here `.gitignore`
+1. Change your `README.md` file to a description of your particular project and how other can contribute to it.
 
 ## Status
 In progress :construction_worker:
