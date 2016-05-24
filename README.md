@@ -7,7 +7,7 @@ Traditional classifiers require extracting high dimensional feature representati
 [Read Whole Paper](http://dl.acm.org/citation.cfm?doid=2808797.2809419)
 
 ## :point_right: Demo
-[MEDA](bit.ly/ilmeda)
+[MEDA](http://bit.ly/ilmeda)
 
 ## :point_right: Demo Screenshot
 ![alt text](https://github.com/omarsar/meda/blob/master/public/home.png)
