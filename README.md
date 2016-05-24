@@ -5,7 +5,7 @@ This is a  basic service to classify text into its pertaining emotion.
 [MEDA](bit.ly/ilmeda)
 
 ## Demo Screenshot
-![alt text](https://github.com/omarsar/DeepViz/blob/master/public/home.png)
+![alt text](https://github.com/omarsar/meda/blob/master/public/home.png)
 
 ## :point_right: Status
 In progress :construction_worker:
