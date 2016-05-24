@@ -1,7 +1,7 @@
-## This is a basic Ruby startup repository
+## :point_right: Sinartra + Ruby Starter Repo
 Basically, you clone it and it serves a starter for any ruby sinartra app. I find it useful becuase I am always building simple sinatra apps and I end up setting up the same files repeatedly; in other words, this repo should save you a couple of minutes.
 
-## Usage / Short description of project
+## :point_right: Usage / Short description of project
 1. Clone with `git clone https://github.com/omarsar/ruby_starter.git`
 2. Add your gems or libraries here `Gemfile` 
 3. Add your configurations here `/config/config_env.rb
@@ -13,7 +13,7 @@ Basically, you clone it and it serves a starter for any ruby sinartra app. I fin
 9. Depending of what you are using for templating / layouts, they go here `/views/
 10. Finally, run `rackup` in root directory of your app
 
-## Additional commands for pushing to Github
+## :point_right: Additional commands for pushing to Github
 1. Remove current remote with this command `git remote remove origin`
 1. Start with a clean git repository `git init`
 1. Add your files `git add .`
@@ -30,7 +30,6 @@ In progress :construction_worker:
 1. Add more common libraries and setup useful code.
 
 ## :point_right: How to Contribute?
-* Provide Contact Information
 * Fork repository
 * Submit Pull Request 
 
